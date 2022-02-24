@@ -1,2 +1,3 @@
 json-config==2.0.1
 requests==2.26.0
+lxml==4.7.1
